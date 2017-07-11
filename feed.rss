@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>grant's bash log</title><link>https://gcgallo.github.io/index.html</link>
 <description>A place to record things</description><language>en</language>
-<lastBuildDate>Tue, 11 Jul 2017 02:25:02 -0700</lastBuildDate>
-<pubDate>Tue, 11 Jul 2017 02:25:02 -0700</pubDate>
+<lastBuildDate>Tue, 11 Jul 2017 02:40:58 -0700</lastBuildDate>
+<pubDate>Tue, 11 Jul 2017 02:40:58 -0700</pubDate>
 <atom:link href="https://gcgallo.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+So the basic idea is this...
+</title><description><![CDATA[
+
+<p>I plan on using this a website to publicly record (and keep track of) all the projects I am working on.
+Whether or not this is a good idea...who knows. Whether or not I'll actually keep it updated...can't say.</p>
+
+<p>Basically, I want to use one (or two, or just very few) tags for each post and be consistent in their use.
+Each tag will correspond to the project with which that post is associated.
+This way the tags can act as directory (or channels to speak in IRC terms) for my projects.</p>
+
+<p>As you can see this post is tagged <strong>general-update</strong> which from now on should be how I tag any kind
+of general update. This was chosen because it makes sense (also I just like two word phrases where the first word is "general").
+My hope is that I can continue to make sense with my tag choices so I don't have to go back and change old posts to match a new
+tag. Maybe I can do something with the <code>./config</code> file to control tag usage or add more actual webpages. 
+Or I could just use a real static site generator? </p>
+
+<p>Tags: <a href='tag_general-update.html'>general-update</a>, <a href='tag_static-site.html'>static-site</a></p>
+<!-- text end -->
+]]></description><link>https://gcgallo.github.io/so-the-basic-idea-is-this.html</link>
+<guid>https://gcgallo.github.io/./so-the-basic-idea-is-this.html</guid>
+<dc:creator>grant</dc:creator>
+<pubDate>Tue, 11 Jul 2017 02:40:54 -0700</pubDate></item>
 <item><title>
 Cool! Now, it's in markdown
 </title><description><![CDATA[
