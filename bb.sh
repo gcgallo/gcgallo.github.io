@@ -20,7 +20,7 @@ global_variables() {
     global_software_version="2.8"
 
     # Blog title
-    global_title="grant's glog"
+    global_title="grant's bash log"
     # The typical subtitle for each blog
     global_description="A place to record things"
     # The public base URL for this blog
