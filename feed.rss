@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>grant's glog</title><link>https://gcgallo.github.io/propaganda/index.html</link>
+<channel><title>grant's glog</title><link>https://gcgallo.github.io/index.html</link>
 <description>A place to record things</description><language>en</language>
-<lastBuildDate>Tue, 11 Jul 2017 01:58:29 -0700</lastBuildDate>
-<pubDate>Tue, 11 Jul 2017 01:58:29 -0700</pubDate>
-<atom:link href="https://gcgallo.github.io/propaganda/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Tue, 11 Jul 2017 02:15:33 -0700</lastBuildDate>
+<pubDate>Tue, 11 Jul 2017 02:15:33 -0700</pubDate>
+<atom:link href="https://gcgallo.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Cool! Now, it's in markdown
 </title><description><![CDATA[
@@ -18,9 +18,10 @@ maybe</p>
 
 <p>Tags: <a href='tag_bashing-my-head-against-a-wall.html'>bashing-my-head-against-a-wall</a>, <a href='tag_ha.html'>ha</a></p>
 
+
 <!-- text end -->
-]]></description><link>https://gcgallo.github.io/propaganda/cool-now-its-in-markdown.html</link>
-<guid>https://gcgallo.github.io/propaganda/./cool-now-its-in-markdown.html</guid>
+]]></description><link>https://gcgallo.github.io/cool-now-its-in-markdown.html</link>
+<guid>https://gcgallo.github.io/./cool-now-its-in-markdown.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Tue, 11 Jul 2017 01:52:39 -0700</pubDate></item>
 <item><title>
@@ -32,9 +33,10 @@ Yup, that's it.</p>
 
 <p>Tags: <a href='tag_what's the pointa tags.html'>what's the pointa tags</a>, <a href='tag_ha.html'>ha</a></p>
 
+
 <!-- text end -->
-]]></description><link>https://gcgallo.github.io/propaganda/this-is-another-post-still-in-html-for-some-reason.html</link>
-<guid>https://gcgallo.github.io/propaganda/./this-is-another-post-still-in-html-for-some-reason.html</guid>
+]]></description><link>https://gcgallo.github.io/this-is-another-post-still-in-html-for-some-reason.html</link>
+<guid>https://gcgallo.github.io/./this-is-another-post-still-in-html-for-some-reason.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Tue, 11 Jul 2017 01:44:36 -0700</pubDate></item>
 <item><title>
@@ -46,9 +48,10 @@ as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
 
+
 <!-- text end -->
-]]></description><link>https://gcgallo.github.io/propaganda/why-html-i-wants-markdowns.html</link>
-<guid>https://gcgallo.github.io/propaganda/./why-html-i-wants-markdowns.html</guid>
+]]></description><link>https://gcgallo.github.io/why-html-i-wants-markdowns.html</link>
+<guid>https://gcgallo.github.io/./why-html-i-wants-markdowns.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Tue, 11 Jul 2017 01:38:17 -0700</pubDate></item>
 </channel></rss>

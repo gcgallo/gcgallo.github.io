@@ -24,12 +24,12 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="A place to record things"
     # The public base URL for this blog
-    global_url="https://gcgallo.github.io/propaganda"
+    global_url="https://gcgallo.github.io"
 
     # Your name
     global_author="grant"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="https://gcgallo.github.io/propaganda" 
+    global_author_url="https://gcgallo.github.io" 
     # Your email
     global_email="ggallo102@gmail.com"
 
