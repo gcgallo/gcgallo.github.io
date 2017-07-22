@@ -6,6 +6,8 @@ courses are absolutely terrible. It is also a categorically provable fact
 that every single one of those textbooks, articles, papers, or videos begins
 with a spiel about how this one is different from the rest.
 
+----
+
 That's why this attempt at building a guided tour of a programming
 language began with the sentence, "This probably won't be any different",
 because despite all my intentional aversions, I will most likely
